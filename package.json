@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cat-loggr": "^1.2.2",
+    "cookie-parser": "^1.4.7",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1"
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.0"
+  },
+  "name": "star-gen-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-server": "node server.js",
+    "start-index": "node index.js",
+    "start": "concurrently \"npm run start-server\" \"npm run start-index\""
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,27 @@
+{
+  "username": "StarPowerGen",
+  "password": "SPGAdmin123",
+  "port": "3000",
+  "clientId": "1323070838920052756",
+  "guildId": "1319227874171031584",
+  "globalDeploy": false,
+  "status": "Coded by Zammy🔥",
+  "banner": "https://media.discordapp.net/attachments/1322340978303963256/1323074692357029990/a_b35453fd8fb67a887ebd9cbb02bda26a.png?ex=677330d4&is=6771df54&hm=d620adbfdb7e5d766b44feee282906aa7150e1e3dbc2c678f13a822497315db5&=&format=webp&quality=lossless",
+  "footer": "Coded By Zammy 🔥",
+  "genChannel": "1322337287929069689",
+  "premiumChannel": "1322342117246505051",
+  "premiumRoleId": "1323107240571572316",
+  "genCooldown": "30",
+  "premiumCooldown": "5",
+  "color": {
+    "green": 3066993,
+    "yellow": 16776956,
+    "red": 15548997,
+    "default": 5771610
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  },
+  "logChannel": "1323103738705088535"
+}
